@@ -1,10 +1,5 @@
 <?php
 
-
-echo "sheetal paaye gaye oyee.....";
-
-
-
 /**
  * The template for displaying the footer
  *
