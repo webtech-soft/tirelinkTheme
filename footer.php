@@ -1,5 +1,8 @@
 <?php
 
+echo "tirelink project belongs to gaurav";
+
+
 /**
  * The template for displaying the footer
  *
